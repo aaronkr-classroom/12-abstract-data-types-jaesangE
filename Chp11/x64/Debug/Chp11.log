@@ -1,0 +1,918 @@
+﻿  analysis.cpp
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(45,2): error C2059: 구문 오류: '-'
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(45,2):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(115,2):
+  	컴파일되는 클래스 템플릿 인스턴스화 'Vec<T>'에 대한 참조를 확인하세요.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(45,10): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(55,34): error C2838: 'create': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(55,43): error C2059: 구문 오류: '{'
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(55,43): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(59,34): error C2838: 'create': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(59,68): error C2059: 구문 오류: '{'
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(59,68): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(65,34): error C2838: 'create': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(65,77): error C2059: 구문 오류: '{'
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(65,77): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(70,34): error C2838: 'uncreate': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(70,45): error C2059: 구문 오류: '{'
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(70,45): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(83,34): error C2838: 'grow': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(83,41): error C2059: 구문 오류: '{'
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(83,41): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(101,34): error C2838: 'unchecked_append': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(101,65): error C2059: 구문 오류: '{'
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(101,65): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(104,37): error C2838: '=': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(104,63): error C2059: 구문 오류: '{'
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(104,63): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(21,10): error C3861: 'create': 식별자를 찾을 수 없습니다.
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(21,16):
+  'create': 인수가 템플릿 매개 변수에 종속되지 않으므로 함수 선언을 사용할 수 있어야 합니다.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(41,4): error C3861: 'grow': 식별자를 찾을 수 없습니다.
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(41,8):
+  'grow': 인수가 템플릿 매개 변수에 종속되지 않으므로 함수 선언을 사용할 수 있어야 합니다.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(46,17): error C3861: 'uncreate': 식별자를 찾을 수 없습니다.
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(46,25):
+  'uncreate': 인수가 템플릿 매개 변수에 종속되지 않으므로 함수 선언을 사용할 수 있어야 합니다.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\Student_info.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,1): error C2556: 'const double *Vec<double>::begin(void)': 오버로드된 함수가 'double *Vec<double>::begin(void)'과(와) 반환 형식만 다릅니다.
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(33,11):
+  'Vec<double>::begin' 선언을 참조하십시오.
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,1):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\Student_info.h(16,17):
+  	컴파일되는 클래스 템플릿 인스턴스화 'Vec<double>'에 대한 참조를 확인하세요.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,17): error C2373: 'Vec<double>::begin': 재정의. 형식 한정자가 다릅니다.
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(33,11):
+  'Vec<double>::begin' 선언을 참조하십시오.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,27): error C2059: 구문 오류: 'return'
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,38): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(36,2): error C2146: 구문 오류: ';'이(가) 'iterator' 식별자 앞에 없습니다.
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.cpp(12,50): error C2039: 'end': 'Vec<double>'의 멤버가 아닙니다.
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\Student_info.h(16,5):
+  'Vec<double>' 선언을 참조하십시오.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.cpp(12,14): error C2672: 'std::find': 일치하는 오버로드된 함수가 없습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(5832,31):
+  '_InIt std::find(_InIt,const _InIt,const _Ty &)'일 수 있습니다.
+  	C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.cpp(12,14):
+  	'_InIt std::find(_InIt,const _InIt,const _Ty &)': 3개의 인수가 필요합니다. 2개가 제공되었습니다.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.cpp(12,75): error C2039: 'end': 'Vec<double>'의 멤버가 아닙니다.
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\Student_info.h(16,5):
+  'Vec<double>' 선언을 참조하십시오.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,1): error C2556: 'const Student_info *Vec<Student_info>::begin(void)': 오버로드된 함수가 'Student_info *Vec<Student_info>::begin(void)'과(와) 반환 형식만 다릅니다.
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(33,11):
+  'Vec<Student_info>::begin' 선언을 참조하십시오.
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,1):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.cpp(28,15):
+  	컴파일되는 클래스 템플릿 인스턴스화 'Vec<Student_info>'에 대한 참조를 확인하세요.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,17): error C2373: 'Vec<Student_info>::begin': 재정의. 형식 한정자가 다릅니다.
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(33,11):
+  'Vec<Student_info>::begin' 선언을 참조하십시오.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.cpp(28,42): error C2039: 'end': 'Vec<Student_info>'의 멤버가 아닙니다.
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.cpp(25,30):
+  'Vec<Student_info>' 선언을 참조하십시오.
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iterator(40,77): error C2039: 'value_type': 'Vec<double>'의 멤버가 아닙니다.
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\Student_info.h(16,5):
+  'Vec<double>' 선언을 참조하십시오.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iterator(40,77):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.cpp(29,9):
+  	컴파일되는 클래스 템플릿 인스턴스화 'std::back_insert_iterator<Vec<double>>'에 대한 참조를 확인하세요.
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iterator(40,89): error C7683: 'void'에 대한 참조를 만들 수 없습니다.
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iterator(45,71): error C2039: 'value_type': 'Vec<double>'의 멤버가 아닙니다.
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\Student_info.h(16,5):
+  'Vec<double>' 선언을 참조하십시오.
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iterator(45,84): error C7683: 'void'에 대한 참조를 만들 수 없습니다.
+  (소스 파일 'analysis.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.cpp(28,5): error C2672: 'transform': 일치하는 오버로드된 함수가 없습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\algorithm(3469,21):
+  '_OutIt std::transform(const _InIt1,const _InIt1,const _InIt2,_OutIt,_Fn)'일 수 있습니다.
+  	C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.cpp(28,5):
+  	'_OutIt std::transform(const _InIt1,const _InIt1,const _InIt2,_OutIt,_Fn)': 5개의 인수가 필요합니다. 3개가 제공되었습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\algorithm(3449,21):
+  또는       '_OutIt std::transform(const _InIt,const _InIt,_OutIt,_Fn)'
+  	C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.cpp(28,5):
+  	'_OutIt std::transform(const _InIt,const _InIt,_OutIt,_Fn)': 4개의 인수가 필요합니다. 3개가 제공되었습니다.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.cpp(38,48): error C2039: 'end': 'Vec<double>'의 멤버가 아닙니다.
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\Student_info.h(16,5):
+  'Vec<double>' 선언을 참조하십시오.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.cpp(38,5): error C2672: 'remove_copy': 일치하는 오버로드된 함수가 없습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\algorithm(4096,21):
+  '_OutIt std::remove_copy(_InIt,_InIt,_OutIt,const _Ty &)'일 수 있습니다.
+  	C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.cpp(38,5):
+  	'_OutIt std::remove_copy(_InIt,_InIt,_OutIt,const _Ty &)': 4개의 인수가 필요합니다. 3개가 제공되었습니다.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.cpp(41,17): error C2039: 'empty': 'Vec<double>'의 멤버가 아닙니다.
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\Student_info.h(16,5):
+  'Vec<double>' 선언을 참조하십시오.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.cpp(50,42): error C2039: 'end': 'Vec<Student_info>'의 멤버가 아닙니다.
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.cpp(25,30):
+  'Vec<Student_info>' 선언을 참조하십시오.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.cpp(50,5): error C2672: 'transform': 일치하는 오버로드된 함수가 없습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\algorithm(3469,21):
+  '_OutIt std::transform(const _InIt1,const _InIt1,const _InIt2,_OutIt,_Fn)'일 수 있습니다.
+  	C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.cpp(50,5):
+  	'_OutIt std::transform(const _InIt1,const _InIt1,const _InIt2,_OutIt,_Fn)': 5개의 인수가 필요합니다. 3개가 제공되었습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\algorithm(3449,21):
+  또는       '_OutIt std::transform(const _InIt,const _InIt,_OutIt,_Fn)'
+  	C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.cpp(50,5):
+  	'_OutIt std::transform(const _InIt,const _InIt,_OutIt,_Fn)': 4개의 인수가 필요합니다. 3개가 제공되었습니다.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.cpp(57,36): error C2039: 'end': 'Vec<double>'의 멤버가 아닙니다.
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\Student_info.h(16,5):
+  'Vec<double>' 선언을 참조하십시오.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.cpp(57,12): error C2672: 'std::accumulate': 일치하는 오버로드된 함수가 없습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\numeric(44,29):
+  '_Ty std::accumulate(const _InIt,const _InIt,_Ty)'일 수 있습니다.
+  	C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.cpp(57,12):
+  	'_Ty std::accumulate(const _InIt,const _InIt,_Ty)': 3개의 인수가 필요합니다. 2개가 제공되었습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\numeric(28,29):
+  또는       '_Ty std::accumulate(const _InIt,const _InIt,_Ty,_Fn)'
+  	C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.cpp(57,12):
+  	'_Ty std::accumulate(const _InIt,const _InIt,_Ty,_Fn)': 4개의 인수가 필요합니다. 2개가 제공되었습니다.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.cpp(67,42): error C2039: 'end': 'Vec<Student_info>'의 멤버가 아닙니다.
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.cpp(25,30):
+  'Vec<Student_info>' 선언을 참조하십시오.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.cpp(67,5): error C2672: 'transform': 일치하는 오버로드된 함수가 없습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\algorithm(3469,21):
+  '_OutIt std::transform(const _InIt1,const _InIt1,const _InIt2,_OutIt,_Fn)'일 수 있습니다.
+  	C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.cpp(67,5):
+  	'_OutIt std::transform(const _InIt1,const _InIt1,const _InIt2,_OutIt,_Fn)': 5개의 인수가 필요합니다. 3개가 제공되었습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\algorithm(3449,21):
+  또는       '_OutIt std::transform(const _InIt,const _InIt,_OutIt,_Fn)'
+  	C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.cpp(67,5):
+  	'_OutIt std::transform(const _InIt,const _InIt,_OutIt,_Fn)': 4개의 인수가 필요합니다. 3개가 제공되었습니다.
+  
+  grade.cpp
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\grade.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(45,2): error C2059: 구문 오류: '-'
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(45,2):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(115,2):
+  	컴파일되는 클래스 템플릿 인스턴스화 'Vec<T>'에 대한 참조를 확인하세요.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(45,10): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(55,34): error C2838: 'create': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(55,43): error C2059: 구문 오류: '{'
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(55,43): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(59,34): error C2838: 'create': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(59,68): error C2059: 구문 오류: '{'
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(59,68): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(65,34): error C2838: 'create': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(65,77): error C2059: 구문 오류: '{'
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(65,77): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(70,34): error C2838: 'uncreate': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(70,45): error C2059: 구문 오류: '{'
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(70,45): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(83,34): error C2838: 'grow': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(83,41): error C2059: 구문 오류: '{'
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(83,41): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(101,34): error C2838: 'unchecked_append': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(101,65): error C2059: 구문 오류: '{'
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(101,65): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(104,37): error C2838: '=': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(104,63): error C2059: 구문 오류: '{'
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(104,63): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(21,10): error C3861: 'create': 식별자를 찾을 수 없습니다.
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(21,16):
+  'create': 인수가 템플릿 매개 변수에 종속되지 않으므로 함수 선언을 사용할 수 있어야 합니다.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(41,4): error C3861: 'grow': 식별자를 찾을 수 없습니다.
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(41,8):
+  'grow': 인수가 템플릿 매개 변수에 종속되지 않으므로 함수 선언을 사용할 수 있어야 합니다.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(46,17): error C3861: 'uncreate': 식별자를 찾을 수 없습니다.
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(46,25):
+  'uncreate': 인수가 템플릿 매개 변수에 종속되지 않으므로 함수 선언을 사용할 수 있어야 합니다.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\Student_info.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,1): error C2556: 'const double *Vec<double>::begin(void)': 오버로드된 함수가 'double *Vec<double>::begin(void)'과(와) 반환 형식만 다릅니다.
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(33,11):
+  'Vec<double>::begin' 선언을 참조하십시오.
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,1):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\Student_info.h(16,17):
+  	컴파일되는 클래스 템플릿 인스턴스화 'Vec<double>'에 대한 참조를 확인하세요.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,17): error C2373: 'Vec<double>::begin': 재정의. 형식 한정자가 다릅니다.
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(33,11):
+  'Vec<double>::begin' 선언을 참조하십시오.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,27): error C2059: 구문 오류: 'return'
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,38): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(36,2): error C2146: 구문 오류: ';'이(가) 'iterator' 식별자 앞에 없습니다.
+  (소스 파일 'grade.cpp'을(를) 컴파일하는 중)
+  
+  main.cpp
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\main.cpp(1,1): warning C4828: 파일에 0xb11 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\main.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(45,2): error C2059: 구문 오류: '-'
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(45,2):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(115,2):
+  	컴파일되는 클래스 템플릿 인스턴스화 'Vec<T>'에 대한 참조를 확인하세요.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(45,10): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(55,34): error C2838: 'create': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(55,43): error C2059: 구문 오류: '{'
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(55,43): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(59,34): error C2838: 'create': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(59,68): error C2059: 구문 오류: '{'
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(59,68): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(65,34): error C2838: 'create': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(65,77): error C2059: 구문 오류: '{'
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(65,77): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(70,34): error C2838: 'uncreate': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(70,45): error C2059: 구문 오류: '{'
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(70,45): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(83,34): error C2838: 'grow': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(83,41): error C2059: 구문 오류: '{'
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(83,41): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(101,34): error C2838: 'unchecked_append': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(101,65): error C2059: 구문 오류: '{'
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(101,65): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(104,37): error C2838: '=': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(104,63): error C2059: 구문 오류: '{'
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(104,63): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(21,10): error C3861: 'create': 식별자를 찾을 수 없습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(21,16):
+  'create': 인수가 템플릿 매개 변수에 종속되지 않으므로 함수 선언을 사용할 수 있어야 합니다.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(41,4): error C3861: 'grow': 식별자를 찾을 수 없습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(41,8):
+  'grow': 인수가 템플릿 매개 변수에 종속되지 않으므로 함수 선언을 사용할 수 있어야 합니다.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(46,17): error C3861: 'uncreate': 식별자를 찾을 수 없습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(46,25):
+  'uncreate': 인수가 템플릿 매개 변수에 종속되지 않으므로 함수 선언을 사용할 수 있어야 합니다.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\Student_info.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,1): error C2556: 'const double *Vec<double>::begin(void)': 오버로드된 함수가 'double *Vec<double>::begin(void)'과(와) 반환 형식만 다릅니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(33,11):
+  'Vec<double>::begin' 선언을 참조하십시오.
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,1):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\Student_info.h(16,17):
+  	컴파일되는 클래스 템플릿 인스턴스화 'Vec<double>'에 대한 참조를 확인하세요.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,17): error C2373: 'Vec<double>::begin': 재정의. 형식 한정자가 다릅니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(33,11):
+  'Vec<double>::begin' 선언을 참조하십시오.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,27): error C2059: 구문 오류: 'return'
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,38): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(36,2): error C2146: 구문 오류: ';'이(가) 'iterator' 식별자 앞에 없습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,1): error C2556: 'const Student_info *Vec<Student_info>::begin(void)': 오버로드된 함수가 'Student_info *Vec<Student_info>::begin(void)'과(와) 반환 형식만 다릅니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(33,11):
+  'Vec<Student_info>::begin' 선언을 참조하십시오.
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,1):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\main.cpp(55,23):
+  	컴파일되는 클래스 템플릿 인스턴스화 'Vec<Student_info>'에 대한 참조를 확인하세요.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,17): error C2373: 'Vec<Student_info>::begin': 재정의. 형식 한정자가 다릅니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(33,11):
+  'Vec<Student_info>::begin' 선언을 참조하십시오.
+  
+  median.cpp
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\median.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(45,2): error C2059: 구문 오류: '-'
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(45,2):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(115,2):
+  	컴파일되는 클래스 템플릿 인스턴스화 'Vec<T>'에 대한 참조를 확인하세요.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(45,10): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(55,34): error C2838: 'create': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(55,43): error C2059: 구문 오류: '{'
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(55,43): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(59,34): error C2838: 'create': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(59,68): error C2059: 구문 오류: '{'
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(59,68): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(65,34): error C2838: 'create': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(65,77): error C2059: 구문 오류: '{'
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(65,77): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(70,34): error C2838: 'uncreate': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(70,45): error C2059: 구문 오류: '{'
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(70,45): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(83,34): error C2838: 'grow': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(83,41): error C2059: 구문 오류: '{'
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(83,41): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(101,34): error C2838: 'unchecked_append': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(101,65): error C2059: 구문 오류: '{'
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(101,65): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(104,37): error C2838: '=': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(104,63): error C2059: 구문 오류: '{'
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(104,63): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(21,10): error C3861: 'create': 식별자를 찾을 수 없습니다.
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(21,16):
+  'create': 인수가 템플릿 매개 변수에 종속되지 않으므로 함수 선언을 사용할 수 있어야 합니다.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(41,4): error C3861: 'grow': 식별자를 찾을 수 없습니다.
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(41,8):
+  'grow': 인수가 템플릿 매개 변수에 종속되지 않으므로 함수 선언을 사용할 수 있어야 합니다.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(46,17): error C3861: 'uncreate': 식별자를 찾을 수 없습니다.
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(46,25):
+  'uncreate': 인수가 템플릿 매개 변수에 종속되지 않으므로 함수 선언을 사용할 수 있어야 합니다.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\Student_info.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,1): error C2556: 'const double *Vec<double>::begin(void)': 오버로드된 함수가 'double *Vec<double>::begin(void)'과(와) 반환 형식만 다릅니다.
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(33,11):
+  'Vec<double>::begin' 선언을 참조하십시오.
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,1):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\Student_info.h(16,17):
+  	컴파일되는 클래스 템플릿 인스턴스화 'Vec<double>'에 대한 참조를 확인하세요.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,17): error C2373: 'Vec<double>::begin': 재정의. 형식 한정자가 다릅니다.
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(33,11):
+  'Vec<double>::begin' 선언을 참조하십시오.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,27): error C2059: 구문 오류: 'return'
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,38): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(36,2): error C2146: 구문 오류: ';'이(가) 'iterator' 식별자 앞에 없습니다.
+  (소스 파일 'median.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\median.cpp(25,27): error C2039: 'end': 'Vec<double>'의 멤버가 아닙니다.
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\Student_info.h(16,5):
+  'Vec<double>' 선언을 참조하십시오.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\median.cpp(25,5): error C2672: 'sort': 일치하는 오버로드된 함수가 없습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\algorithm(8077,19):
+  'void std::sort(const _RanIt,const _RanIt,_Pr)'일 수 있습니다.
+  	C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\median.cpp(25,5):
+  	'void std::sort(const _RanIt,const _RanIt,_Pr)': 3개의 인수가 필요합니다. 1개가 제공되었습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\algorithm(8085,19):
+  또는       'void std::sort(const _RanIt,const _RanIt)'
+  	C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\median.cpp(25,5):
+  	'void std::sort(const _RanIt,const _RanIt)': 2개의 인수가 필요합니다. 1개가 제공되었습니다.
+  
+  Student_info.cpp
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\Student_info.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\Student_info.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(45,2): error C2059: 구문 오류: '-'
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(45,2):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(115,2):
+  	컴파일되는 클래스 템플릿 인스턴스화 'Vec<T>'에 대한 참조를 확인하세요.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(45,10): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(55,34): error C2838: 'create': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(55,43): error C2059: 구문 오류: '{'
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(55,43): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(59,34): error C2838: 'create': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(59,68): error C2059: 구문 오류: '{'
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(59,68): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(65,34): error C2838: 'create': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(65,77): error C2059: 구문 오류: '{'
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(65,77): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(70,34): error C2838: 'uncreate': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(70,45): error C2059: 구문 오류: '{'
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(70,45): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(83,34): error C2838: 'grow': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(83,41): error C2059: 구문 오류: '{'
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(83,41): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(101,34): error C2838: 'unchecked_append': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(101,65): error C2059: 구문 오류: '{'
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(101,65): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(104,37): error C2838: '=': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(104,63): error C2059: 구문 오류: '{'
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(104,63): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(21,10): error C3861: 'create': 식별자를 찾을 수 없습니다.
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(21,16):
+  'create': 인수가 템플릿 매개 변수에 종속되지 않으므로 함수 선언을 사용할 수 있어야 합니다.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(41,4): error C3861: 'grow': 식별자를 찾을 수 없습니다.
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(41,8):
+  'grow': 인수가 템플릿 매개 변수에 종속되지 않으므로 함수 선언을 사용할 수 있어야 합니다.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(46,17): error C3861: 'uncreate': 식별자를 찾을 수 없습니다.
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(46,25):
+  'uncreate': 인수가 템플릿 매개 변수에 종속되지 않으므로 함수 선언을 사용할 수 있어야 합니다.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,1): error C2556: 'const double *Vec<double>::begin(void)': 오버로드된 함수가 'double *Vec<double>::begin(void)'과(와) 반환 형식만 다릅니다.
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(33,11):
+  'Vec<double>::begin' 선언을 참조하십시오.
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,1):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\Student_info.h(16,17):
+  	컴파일되는 클래스 템플릿 인스턴스화 'Vec<double>'에 대한 참조를 확인하세요.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,17): error C2373: 'Vec<double>::begin': 재정의. 형식 한정자가 다릅니다.
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(33,11):
+  'Vec<double>::begin' 선언을 참조하십시오.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,27): error C2059: 구문 오류: 'return'
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,38): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(36,2): error C2146: 구문 오류: ';'이(가) 'iterator' 식별자 앞에 없습니다.
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\Student_info.cpp(21,12): error C2039: 'clear': 'Vec<double>'의 멤버가 아닙니다.
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\Student_info.h(16,5):
+  'Vec<double>' 선언을 참조하십시오.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\Student_info.cpp(29,16): error C2039: 'push_back': 'Vec<double>'의 멤버가 아닙니다.
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\Student_info.h(16,5):
+  'Vec<double>' 선언을 참조하십시오.
+  
+  util.cpp
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\util.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(45,2): error C2059: 구문 오류: '-'
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(45,2):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(115,2):
+  	컴파일되는 클래스 템플릿 인스턴스화 'Vec<T>'에 대한 참조를 확인하세요.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(45,10): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(55,34): error C2838: 'create': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(55,43): error C2059: 구문 오류: '{'
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(55,43): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(59,34): error C2838: 'create': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(59,68): error C2059: 구문 오류: '{'
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(59,68): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(65,34): error C2838: 'create': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(65,77): error C2059: 구문 오류: '{'
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(65,77): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(70,34): error C2838: 'uncreate': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(70,45): error C2059: 구문 오류: '{'
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(70,45): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(83,34): error C2838: 'grow': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(83,41): error C2059: 구문 오류: '{'
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(83,41): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(101,34): error C2838: 'unchecked_append': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(101,65): error C2059: 구문 오류: '{'
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(101,65): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(104,37): error C2838: '=': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(104,63): error C2059: 구문 오류: '{'
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(104,63): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(21,10): error C3861: 'create': 식별자를 찾을 수 없습니다.
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(21,16):
+  'create': 인수가 템플릿 매개 변수에 종속되지 않으므로 함수 선언을 사용할 수 있어야 합니다.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(41,4): error C3861: 'grow': 식별자를 찾을 수 없습니다.
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(41,8):
+  'grow': 인수가 템플릿 매개 변수에 종속되지 않으므로 함수 선언을 사용할 수 있어야 합니다.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(46,17): error C3861: 'uncreate': 식별자를 찾을 수 없습니다.
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(46,25):
+  'uncreate': 인수가 템플릿 매개 변수에 종속되지 않으므로 함수 선언을 사용할 수 있어야 합니다.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\Student_info.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,1): error C2556: 'const double *Vec<double>::begin(void)': 오버로드된 함수가 'double *Vec<double>::begin(void)'과(와) 반환 형식만 다릅니다.
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(33,11):
+  'Vec<double>::begin' 선언을 참조하십시오.
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,1):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\Student_info.h(16,17):
+  	컴파일되는 클래스 템플릿 인스턴스화 'Vec<double>'에 대한 참조를 확인하세요.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,17): error C2373: 'Vec<double>::begin': 재정의. 형식 한정자가 다릅니다.
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(33,11):
+  'Vec<double>::begin' 선언을 참조하십시오.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,27): error C2059: 구문 오류: 'return'
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,38): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(36,2): error C2146: 구문 오류: ';'이(가) 'iterator' 식별자 앞에 없습니다.
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,1): error C2556: 'const Student_info *Vec<Student_info>::begin(void)': 오버로드된 함수가 'Student_info *Vec<Student_info>::begin(void)'과(와) 반환 형식만 다릅니다.
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(33,11):
+  'Vec<Student_info>::begin' 선언을 참조하십시오.
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,1):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\util.cpp(64,3):
+  	컴파일되는 클래스 템플릿 인스턴스화 'Vec<Student_info>'에 대한 참조를 확인하세요.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(34,17): error C2373: 'Vec<Student_info>::begin': 재정의. 형식 한정자가 다릅니다.
+  (소스 파일 'util.cpp'을(를) 컴파일하는 중)
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\H_Vec.h(33,11):
+  'Vec<Student_info>::begin' 선언을 참조하십시오.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\util.cpp(64,12): error C2039: 'push_back': 'Vec<Student_info>'의 멤버가 아닙니다.
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.h(13,30):
+  'Vec<Student_info>' 선언을 참조하십시오.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\util.cpp(67,8): error C2039: 'push_back': 'Vec<Student_info>'의 멤버가 아닙니다.
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.h(13,30):
+  'Vec<Student_info>' 선언을 참조하십시오.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\util.cpp(70,10): error C2039: 'push_back': 'Vec<Student_info>'의 멤버가 아닙니다.
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.h(13,30):
+  'Vec<Student_info>' 선언을 참조하십시오.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\util.cpp(84,11): error C2039: 'clear': 'Vec<Student_info>'의 멤버가 아닙니다.
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.h(13,30):
+  'Vec<Student_info>' 선언을 참조하십시오.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\util.cpp(85,6): error C2039: 'clear': 'Vec<Student_info>'의 멤버가 아닙니다.
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.h(13,30):
+  'Vec<Student_info>' 선언을 참조하십시오.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\util.cpp(86,8): error C2039: 'clear': 'Vec<Student_info>'의 멤버가 아닙니다.
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.h(13,30):
+  'Vec<Student_info>' 선언을 참조하십시오.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\util.cpp(108,10): error C2039: 'empty': 'Vec<Student_info>'의 멤버가 아닙니다.
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.h(13,30):
+  'Vec<Student_info>' 선언을 참조하십시오.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\util.cpp(112,12): error C2039: 'empty': 'Vec<Student_info>'의 멤버가 아닙니다.
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.h(13,30):
+  'Vec<Student_info>' 선언을 참조하십시오.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\util.cpp(133,10): error C2039: 'empty': 'Vec<Student_info>'의 멤버가 아닙니다.
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.h(13,30):
+  'Vec<Student_info>' 선언을 참조하십시오.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\util.cpp(142,12): error C2039: 'empty': 'Vec<Student_info>'의 멤버가 아닙니다.
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.h(13,30):
+  'Vec<Student_info>' 선언을 참조하십시오.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\util.cpp(165,34): error C2039: 'end': 'Vec<Student_info>'의 멤버가 아닙니다.
+  C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\analysis.h(13,30):
+  'Vec<Student_info>' 선언을 참조하십시오.
+  
+C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\util.cpp(165,2): error C2672: 'sort': 일치하는 오버로드된 함수가 없습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\algorithm(8085,19):
+  'void std::sort(const _RanIt,const _RanIt)'일 수 있습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\algorithm(8077,19):
+  또는       'void std::sort(const _RanIt,const _RanIt,_Pr)'
+  	C:\Users\com316\Desktop\cpp\12-abstract-data-types-jaesangE\Chp11\util.cpp(165,2):
+  	'void std::sort(const _RanIt,const _RanIt,_Pr)': 3개의 인수가 필요합니다. 2개가 제공되었습니다.
+  
+  코드를 생성하고 있습니다...
